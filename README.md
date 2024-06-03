@@ -1,4 +1,4 @@
-# Explainability-Fairness-Safety-for-AI
+# Explainability, Fairness, and Safety for AI
 
 👋 Hello and Welcome!  
 
