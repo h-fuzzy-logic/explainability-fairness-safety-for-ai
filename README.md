@@ -2,7 +2,7 @@
 
 👋 Hello and Welcome!  
 
-I’m sharing what I’m learning about ethical AI, as I’m learning.  
+I’m sharing resources and ideas about ethical AI.    
 
 My perspective is that of a technical consultant who works as a software engineer, data engineer, and cloud architect on analytics and development teams. 
 
