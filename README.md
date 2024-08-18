@@ -16,3 +16,5 @@ Convincing your team leader, your team, and/or your manager to spend more time (
 
 So with all this in mind, I’m here sharing what I’m learning about explainability, fairness, and safety related to Artifical Intelligence.
 
+## How To Increase Model Transparency 
+[Model Cards](/model-cards/README.md)
