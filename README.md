@@ -18,3 +18,6 @@ So with all this in mind, I’m here sharing what I’m learning about explainab
 
 ## How To Increase Model Transparency 
 [Model Cards](/model-cards/README.md)
+
+## Presentations 
+[Recent Presentations](/presentations/README.md)
