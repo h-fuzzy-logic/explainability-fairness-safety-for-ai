@@ -12,6 +12,6 @@
 This talk aims to equip you with the knowledge and tools to make your AI products more trustworthy and transparent. It includes tips and recommendations for those who build models and also those who consume already built AI solutions. Topics include data assessments, data bias, model cards, algorithmic bias, and SHapley Additive exPlanations (SHAP).
 
 ### Slides 
-[Explainable AI](explainabl-ai.pdf)
+[Explainable AI](explainable-ai-2024-08.pdf)
 
 
