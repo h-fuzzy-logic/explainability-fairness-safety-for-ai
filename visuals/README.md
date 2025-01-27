@@ -11,6 +11,4 @@ Inspired by food nutrition labels, Twilio created a standardized format to commu
 
 <img src="twilio-ai-nutrition-facts.png" alt="AI Nutrition Facts Label example showing model details, intended use, performance metrics and limitations" width="500"/>
 
-![AI Nutrition Facts Label example showing model details, intended use, performance metrics and limitations](twilio-ai-nutrition-facts.png)
-
 Source: [Twilio - AI Nutrition Labels](https://nutrition-facts.ai/)

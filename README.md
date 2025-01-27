@@ -14,6 +14,9 @@ Explaining why it matters is hard. Convincing your team leader, your team, and/o
 
 So with all this in mind, I’m here sharing what I’m learning about explainability, fairness, and safety related to Artifical Intelligence.
 
+## Cases of AI Systems Failing to Perform as Expected
+[Examples of AI Gone Wrong](/ai-gone-wrong/README.md)
+
 ## Visual Representations 
 [Visuals](/visuals/README.md)
 
