@@ -1,7 +1,7 @@
 # Cases of AI Systems Failing to Perform as Expected
 
 ## Amazon's resume screening tool 
-Amazon decided to stop working on its resume screening tool because it showed bias against women. Resumes were scored lower if they contained phrases like "women's chess club” or included graduation from an all-women college.
+Amazon decided to stop working on its resume screening tool because it showed bias against women. Resumes were scored lower if they contained phrases like "women's chess club” or included graduation from an all-women college.  
 Source: [Reuters](https://www.reuters.com/article/world/insight-amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK0AG/)
 
 ## Dogs vs. wolves image classification project 
