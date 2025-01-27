@@ -29,5 +29,8 @@ So with all this in mind, I’m here sharing what I’m learning about explainab
 ## Frameworks
 [Python Frameworks](/python-frameworks/README.md)
 
+## Learn from Other Companies
+[Companies Building in Public](/learn-from-companies/README.md)
+
 ## Resources
 [Recommended Readings](/resources/README.md)
