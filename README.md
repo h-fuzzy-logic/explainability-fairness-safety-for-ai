@@ -32,5 +32,8 @@ So with all this in mind, I’m here sharing what I’m learning about explainab
 ## Learn from Other Companies
 [Companies Building in Public](/learn-from-companies/README.md)
 
+## Strategies
+[Government Strategies](/strategy/README.md#government-strategies)
+
 ## Resources
 [Recommended Readings](/resources/README.md)
