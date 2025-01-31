@@ -2,7 +2,7 @@
 
 ## 👋 Hello and Welcome!  
 
-Welcome to this curated collection of resources about explainable, fair, and trustworthy AI. Learn how these fuzzy topics impact your tech ecosystem, whether you are building, buying, or integrating AI enabled products. More importantly, learn about tools and frameworks to help you assess and mitigate the risks.  
+Welcome to this curated collection of resources about making AI explainable, fair, and trustworthy. Learn how these fuzzy topics impact your tech ecosystem, whether you are building, buying, or integrating AI enabled products. And also learn about tools and frameworks to help you assess and mitigate the risks.  
 
 You are in the right place if you are a:  
 * builder (developer, engineer, architect, data scientist)
@@ -27,7 +27,7 @@ If you are a developer, architect, data scientist, product owner, or other stake
 1. For ideas about communicating about trustworthy AI check out [model cards](/model-cards/README.md) and 
 [other visuals](/visuals/README.md)
 
-### Enterprise Protectors
+### Enterprise AI Ethics Leaders
 If you are a C-Suite or other member of an AI Governance committee, this information can help you learn how:
 * Other companies approach trustworthy AI 
 * To assess AI products and models
