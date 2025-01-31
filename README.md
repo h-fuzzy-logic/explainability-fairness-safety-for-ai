@@ -5,8 +5,8 @@
 Welcome to this curated collection of resources about explainable, fair, and trustworthy AI. Learn how these fuzzy topics impact your tech ecosystem, whether you are building, buying, or integrating AI enabled products. More importantly, learn about tools and frameworks to help you assess and mitigate the risks.  
 
 You are in the right place if you are a:  
-* builder
-* takeholder in a software or data team
+* builder (developer, engineer, architect, data scientist)
+* stakeholder on a software or data team
 * responsible corporate citizen, tasked with responsibly incorporating AI in your enterprise
 * curious learner interested in ethical AI
 
@@ -14,13 +14,13 @@ You are in the right place if you are a:
 
 ### Software and Data Teams
 If you are a developer, architect, data scientist, product owner, or other stakeholder on a software or data team, this information can help you:
-- [ ] increase sales
-- [ ] make your team stronger
-- [ ] make your models easier to debug and maintain
-- [ ] ask better questions to understand model outputs
-- [ ] increase confidence and trust in your team and products
+:ballot_box_with_check: increase sales
+:ballot_box_with_check: make your team stronger
+:ballot_box_with_check: make your models easier to debug and maintain
+:ballot_box_with_check: ask better questions to understand model outputs
+:ballot_box_with_check: increase confidence and trust in your team and products
 
-#### Recommended order for reading:
+#### Recommended:
 1. To understand what can go wrong start with [examples of AI gone wrong](/ai-gone-wrong/README.md) and [these books](/resources/README.md)
 1. To learn about technical resources and frameworks [start here](/python-frameworks/README.md)
 1. For good examples of companies building trustworthy AI [start here](/learn-from-companies/README.md)
@@ -29,11 +29,11 @@ If you are a developer, architect, data scientist, product owner, or other stake
 
 ### Enterprise Protectors
 If you are a C-Suite or other member of an AI Governance committee, this information can help you learn how:
-* Other companies approach trustworthy AI 
-* To assess AI products and models
-* To ask better questions about AI products 
+:ballot_box_with_check: Other companies approach trustworthy AI 
+:ballot_box_with_check: To assess AI products and models
+:ballot_box_with_check: To ask better questions about AI products 
 
-#### Recommended order for reading:
+#### Recommended:
 1. To understand what can go wrong start with [examples of AI gone wrong](/ai-gone-wrong/README.md) and [these books](/resources/README.md)
 1. For good examples of companies building trustworthy AI [start here](/learn-from-companies/README.md)
 1. For example strategies [start here](/strategy/README.md#government-strategies)
