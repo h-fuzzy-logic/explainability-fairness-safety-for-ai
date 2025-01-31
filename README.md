@@ -14,11 +14,11 @@ You are in the right place if you are a:
 
 ### Software and Data Teams
 If you are a developer, architect, data scientist, product owner, or other stakeholder on a software or data team, this information can help you:
-:ballot_box_with_check: increase sales
-:ballot_box_with_check: make your team stronger
-:ballot_box_with_check: make your models easier to debug and maintain
-:ballot_box_with_check: ask better questions to understand model outputs
-:ballot_box_with_check: increase confidence and trust in your team and products
+* increase sales
+* make your team stronger
+* make your models easier to debug and maintain
+* ask better questions to understand model outputs
+* increase confidence and trust in your team and products
 
 #### Recommended:
 1. To understand what can go wrong start with [examples of AI gone wrong](/ai-gone-wrong/README.md) and [these books](/resources/README.md)
@@ -29,9 +29,9 @@ If you are a developer, architect, data scientist, product owner, or other stake
 
 ### Enterprise Protectors
 If you are a C-Suite or other member of an AI Governance committee, this information can help you learn how:
-:ballot_box_with_check: Other companies approach trustworthy AI 
-:ballot_box_with_check: To assess AI products and models
-:ballot_box_with_check: To ask better questions about AI products 
+* Other companies approach trustworthy AI 
+* To assess AI products and models
+* To ask better questions about AI products 
 
 #### Recommended:
 1. To understand what can go wrong start with [examples of AI gone wrong](/ai-gone-wrong/README.md) and [these books](/resources/README.md)
