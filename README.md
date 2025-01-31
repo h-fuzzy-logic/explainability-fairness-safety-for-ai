@@ -1,39 +1,52 @@
 # Explainability, Fairness, and Safety for AI
 
-👋 Hello and Welcome!  
+## 👋 Hello and Welcome!  
 
-I’m sharing resources and ideas about ethical AI.    
+Welcome to this curated collection of resources about making AI explainable, fair, and trustworthy. Learn how these fuzzy topics impact your tech ecosystem, whether you are building, buying, or integrating AI enabled products. And also learn about tools and frameworks to help you assess and mitigate the risks.  
 
-My perspective is that of a technical consultant who works as a software engineer, data engineer, and cloud architect on analytics and development teams. 
+You are in the right place if you are a:  
+* builder (developer, engineer, architect, data scientist)
+* stakeholder on a software or data team
+* responsible corporate citizen, tasked with responsibly incorporating AI in your enterprise
+* curious learner interested in ethical AI
 
-Usually, the teams exist within siloehed enterprises and build amazing products and platforms. But there is an element of mystery to their creations. Mystery about HOW the AI creations and integrations actually work.  
+## Who can benefit from this repo?
 
-That is why explainability, fairness, and safety are such important topics. And yet it is hard for teams to get started.  
+### Software and Data Teams
+If you are a developer, architect, data scientist, product owner, or other stakeholder on a software or data team, this information can help you:
+* increase sales
+* make your team stronger
+* make your models easier to debug and maintain
+* ask better questions to understand model outputs
+* increase confidence and trust in your team and products
 
-Explaining why it matters is hard. Convincing your team leader, your team, and/or your manager to spend more time (and MONEY) on explainability, fairness, and safety is challenging. Especially when no one is really complaining. 
+#### Recommended:
+1. To understand what can go wrong start with [examples of AI gone wrong](/ai-gone-wrong/README.md) and [these books](/resources/README.md)
+1. To learn about technical resources and frameworks [start here](/python-frameworks/README.md)
+1. For good examples of companies building trustworthy AI [start here](/learn-from-companies/README.md)
+1. For ideas about communicating about trustworthy AI check out [model cards](/model-cards/README.md) and 
+[other visuals](/visuals/README.md)
 
-So with all this in mind, I’m here sharing what I’m learning about explainability, fairness, and safety related to Artifical Intelligence.
+### Enterprise AI Ethics Leaders
+If you are a C-Suite or other member of an AI Governance committee, this information can help you learn how:
+* Other companies approach trustworthy AI 
+* To assess AI products and models
+* To ask better questions about AI products 
 
-## Cases of AI Systems Failing to Perform as Expected
-[Examples of AI Gone Wrong](/ai-gone-wrong/README.md)
+#### Recommended:
+1. To understand what can go wrong start with [examples of AI gone wrong](/ai-gone-wrong/README.md) and [these books](/resources/README.md)
+1. For good examples of companies building trustworthy AI [start here](/learn-from-companies/README.md)
+1. For example strategies [start here](/strategy/README.md#government-strategies)
+1. Ideas for communicating about trustworthy AI read about [model cards](/model-cards/README.md) and 
+[other visuals](/visuals/README.md)
 
-## Visual Representations 
-[Visuals](/visuals/README.md)
 
-## How To Increase Model Transparency 
-[Model Cards](/model-cards/README.md)
+### Curious Learners
+If you curious about trustworthy AI, pick and choose the topics of most interest to you: 
 
-## Presentations 
-[Recent Presentations](/presentations/README.md)
-
-## Frameworks
-[Python Frameworks](/python-frameworks/README.md)
-
-## Learn from Other Companies
-[Companies Building in Public](/learn-from-companies/README.md)
-
-## Strategies
-[Government Strategies](/strategy/README.md#government-strategies)
-
-## Resources
-[Recommended Readings](/resources/README.md)
+1. To understand what can go wrong start with [examples of AI gone wrong](/ai-gone-wrong/README.md) and [these books](/resources/README.md)
+1. For good examples of companies building trustworthy AI [start here](/learn-from-companies/README.md)
+1. To learn about technical resources and frameworks [start here](/python-frameworks/README.md)
+1. For example strategies [start here](/strategy/README.md#government-strategies)
+1. Ideas for communicating about trustworthy AI read about [model cards](/model-cards/README.md) and 
+[other visuals](/visuals/README.md)
