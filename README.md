@@ -1,5 +1,7 @@
 # Explainability, Fairness, and Safety for AI
 
+Curated 2023 to 2025. My current hands-on work is in [inspect-experiments](https://github.com/h-fuzzy-logic/inspect-experiments) and [judge-audit](https://github.com/h-fuzzy-logic/judge-audit).
+
 ## 👋 Hello and Welcome!  
 
 Welcome to this curated collection of resources about making AI explainable, fair, and trustworthy. Learn how these fuzzy topics impact your tech ecosystem, whether you are building, buying, or integrating AI enabled products. And also learn about tools and frameworks to help you assess and mitigate the risks.  
